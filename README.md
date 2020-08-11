@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=15d8bd)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=15d8bd)
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=c-sharp&logoColor=white&color=15d8bd)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typeScript&Color=white&color=15d8bd)
 
 
 ## &#x1f4c8; GitHub Stats
