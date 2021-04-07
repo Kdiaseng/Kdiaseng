@@ -1,5 +1,5 @@
 <p align="center">
-<img  src="https://line25.com/wp-content/uploads/2016/06/10-Demain-le-mot-anglais-blanc.jpg" alt="developer" style=>
+<img  src="https://gennegociosegestao.com.br/wp-content/uploads/2019/01/inteligencia-artificial-robo-770x313.jpg" alt="developer" style=>
 </P>
 
 # :wave: Olá
