@@ -5,7 +5,7 @@
 # :wave: Olá
 
 <p align="center">
-	Meu nome é Kaleb, sou graduado em engenharia de computação e atuo na área de desenvolvimento de bibliotecas para android assim como aplicações IOT como Desenvolvedor Full Stack.
+	O Meu nome é Kaleb, sou graduado em engenharia de computação e atuo como desenvolvedor Full Stack Sr. desenvolvendo aplicações e bibliotecas para dispositivos móveis, as principais linguagens de programação é Kotlin (Android) e Dart (multiplataforma - flutter).
 </P>
 
 ## 🔧 Tecnologias & Ferramentas
