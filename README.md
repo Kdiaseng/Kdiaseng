@@ -1,6 +1,6 @@
-<p align="center">
-<img  src="https://gennegociosegestao.com.br/wp-content/uploads/2019/01/inteligencia-artificial-robo-770x313.jpg" alt="developer" style=>
-</P>
+
+<img  src="mobile-developer.jpg" alt="developer">
+
 
 # :wave: Olá
 
